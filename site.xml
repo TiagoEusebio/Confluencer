@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<site>
+   <feature url="features/Reyna_1.0.1.jar" id="Reyna" version="1.0.1">
+      <category name="Assistant"/>
+   </feature>
+   <category-def name="Assistant" label="Assistant"/>
+</site>
