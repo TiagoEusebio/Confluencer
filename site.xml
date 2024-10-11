@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <site>
+   <description name="Reyna" url="https://github.com/TiagoEusebio/Confluencer/raw/master">
+      
+   </description>
    <feature url="features/Reyna_1.0.1.jar" id="Reyna" version="1.0.1">
       <category name="Assistant"/>
    </feature>
